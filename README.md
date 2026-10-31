@@ -37,9 +37,6 @@ The Excel dashboard presents:
 - Average fare by distance category
 - Shared vs non-shared ride economics
 
-  ## Dashboard Preview
-
-![Urban Mobility Analytics Dashboard](images/dashboard.png)
 
 ## Methodology & Limitations
 The trip-level analysis uses 20,000 chronological NYC HVFHV records covering approximately 00:00–00:36 on January 1, 2024. The hourly demand analysis uses a separate aggregate covering January 1–2, 2024.
